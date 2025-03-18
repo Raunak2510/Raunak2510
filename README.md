@@ -18,7 +18,7 @@
 **Languages:** C++, JavaScript, TypeScript  
 **Backend:** Node.js, Express.js, Database, System Design  
 **Frontend:** React.js, Next.js, SCSS  
-**Tools & Technologies:** Git, Docker, Azure, Firebase, GitHub, GitLab  
+**Tools & Technologies:** Git,  GitHub, GitLab  
 
 
 📫 **Connect with me:**  
